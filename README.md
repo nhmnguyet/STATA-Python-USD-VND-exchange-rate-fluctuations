@@ -23,7 +23,7 @@ Quy trình phân tích đi từ các bước cơ bản đến nâng cao để nh
 
 Bên cạnh đó, việc chạy thử nghiệm bổ sung thuật toán học sâu LSTM trên Python cho ra kết quả dự báo bám sát xu hướng thực tế với sai số (MAPE) dưới 0.4%, minh chứng cho tính ứng dụng cao của Machine Learning vào phân tích chuỗi dữ liệu tài chính.
 
-![Biểu đồ dự báo USD/VND bằng mô hình LSTM]([images/lstm_chart.png](https://github.com/nhmnguyet/STATA-Python-USD-VND-exchange-rate-fluctuations/blob/main/lstm_chart))
+![Biểu đồ dự báo USD/VND bằng mô hình LSTM]([images/lstm_chart])
 
 ## Cấu trúc Repository
 ```text
