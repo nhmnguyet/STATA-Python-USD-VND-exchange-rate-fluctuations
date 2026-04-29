@@ -26,10 +26,11 @@ Bên cạnh đó, việc chạy thử nghiệm bổ sung thuật toán học sâ
 ## Cấu trúc Repository
 ```text
 ├── data/
-│   ├── Data_week      # Dữ liệu vĩ mô (tỷ giá, lãi suất, lạm phát...)
+│   ├── Data_week     
 │   └── Data_day
 ├── code/
-│   ├── main.do                          # STATA Script: Chạy ARMAX, GARCH, EGARCH
-│   └── lstm_prediction.ipynb            # Python Notebook: Chạy mô hình học sâu LSTM
-├── lstm_chart.png                       # Hình ảnh biểu đồ kết quả
-└── README.md                            # Tổng quan dự án
+│   ├── main.do                         
+│   └── lstm_prediction.ipynb          
+├── images                     
+│   └── lstm chart           
+└── README.md                        
