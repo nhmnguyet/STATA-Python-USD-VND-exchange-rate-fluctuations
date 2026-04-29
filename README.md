@@ -23,7 +23,7 @@ Quy trình phân tích đi từ các bước cơ bản đến nâng cao để nh
 
 Bên cạnh đó, việc chạy thử nghiệm bổ sung thuật toán học sâu LSTM trên Python cho ra kết quả dự báo bám sát xu hướng thực tế với sai số (MAPE) dưới 0.4%, minh chứng cho tính ứng dụng cao của Machine Learning vào phân tích chuỗi dữ liệu tài chính.
 
-![Biểu đồ dự báo USD/VND bằng mô hình LSTM](https://drive.google.com/file/d/1J6n-J-rTKpH9mCSbVCJBbs-6AGq3-8mz/view?usp=drive_link)
+![Biểu đồ dự báo USD/VND bằng mô hình LSTM]([images/lstm_chart.png](https://github.com/nhmnguyet/STATA-Python-USD-VND-exchange-rate-fluctuations/blob/main/lstm_chart))
 
 ## Cấu trúc Repository
 ```text
@@ -33,4 +33,5 @@ Bên cạnh đó, việc chạy thử nghiệm bổ sung thuật toán học sâ
 ├── code/
 │   ├── main.do                          # STATA Script: Chạy ARMAX, GARCH, EGARCH
 │   └── lstm_prediction.ipynb            # Python Notebook: Chạy mô hình học sâu LSTM
+├── lstm_chart.png                       # Hình ảnh biểu đồ kết quả
 └── README.md                            # Tổng quan dự án
