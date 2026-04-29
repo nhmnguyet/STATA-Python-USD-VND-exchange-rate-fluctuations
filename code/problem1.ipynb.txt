@@ -1,0 +1,20 @@
+bang 3.5,, chi so AIC logli ar7 tot hon ar1 ma sao ko chon
+dien giai he so: lam ro y nghia thuc te va don vi dung cua he so , lai suat trai phieu tang 1%
+mo hinh LSTM ko neu ro cau hinh: muc dich dua mo hinh vao de lam gi
+y nghia va chinh sach: de xuat tang du tru ngoai hoi
+1 số dữ liệu chỉ có theo quý, thì theo tuần sao
+
+
+
+
+
+nhan xet:
+thanh pho, muc luc bi loi so la ma, tài liệu tham khảo chưa đúng APA, hình chuong 2: 2.1,.., một số hình và bảng ghi nguồn, file nộp thêm trang bìa lót, sai chính tả tên tác giả, trang 13 lấy dữ liệu theo t
+trang 17: 
+trang 21: sai tên bién VNGB
+trang 15: ch 2.4 viết d.ln_VN_US chưa đồng nhất
+1 số dữ liệu chỉ có theo quý, thì theo tuần sao
+thêm các chỉ số để so sánh với ARMAX
+trang 23: giải thích là chỉ chọn theo BIC
+LSTM thêm số đo
+MA kiểm định điều kiện khả nghịch
