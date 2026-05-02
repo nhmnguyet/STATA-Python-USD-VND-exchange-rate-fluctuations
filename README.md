@@ -10,7 +10,7 @@ On the forecasting side, the ARMAX(1,6)-EGARCH(1,1) model proved best for captur
 
 Tech stack and data
 The project uses Python for machine learning (LSTM) and STATA for time series analysis (OLS, ARMAX, GARCH family). The dataset consists of over 500 weekly observations from 2015 to 2025, sourced from FRED, Investing, and Trading Economics.
-
+'''
 Repository structure
 ├── data/
 │ ├── Data_week
@@ -21,3 +21,4 @@ Repository structure
 ├── images
 │ └── lstm chart
 └── README.md
+'''
